@@ -1,0 +1,32 @@
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\bin\Debug\Student_Work.exe.config
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\bin\Debug\Student_Work.exe
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\bin\Debug\Student_Work.pdb
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\obj\Debug\Student_Work.csproj.AssemblyReference.cache
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\obj\Debug\Student_Work.Student_work.resources
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\obj\Debug\Student_Work.Properties.Resources.resources
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\obj\Debug\Student_Work.csproj.GenerateResource.cache
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\obj\Debug\Student_Work.csproj.CoreCompileInputs.cache
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\obj\Debug\Student_Work.exe
+\\192.168.200.13\pr305a01\Пр-22\Малюгин Кирилл ПР-22\Student_Work\obj\Debug\Student_Work.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\bin\Debug\Student_Work.exe.config
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\bin\Debug\Student_Work.exe
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\bin\Debug\Student_Work.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\obj\Debug\Student_Work.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\obj\Debug\Student_Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\obj\Debug\Student_Work.Student_work.resources
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\obj\Debug\Student_Work.Properties.Resources.resources
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\obj\Debug\Student_Work.csproj.GenerateResource.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\obj\Debug\Student_Work.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\obj\Debug\Student_Work.exe
+C:\Users\kiril\OneDrive\Рабочий стол\Student_Work\obj\Debug\Student_Work.pdb
+E:\Учеба\Student_Work\bin\Debug\Student_Work.exe.config
+E:\Учеба\Student_Work\bin\Debug\Student_Work.exe
+E:\Учеба\Student_Work\bin\Debug\Student_Work.pdb
+E:\Учеба\Student_Work\obj\Debug\Student_Work.csproj.AssemblyReference.cache
+E:\Учеба\Student_Work\obj\Debug\Student_Work.csproj.SuggestedBindingRedirects.cache
+E:\Учеба\Student_Work\obj\Debug\Student_Work.Student_work.resources
+E:\Учеба\Student_Work\obj\Debug\Student_Work.Properties.Resources.resources
+E:\Учеба\Student_Work\obj\Debug\Student_Work.csproj.GenerateResource.cache
+E:\Учеба\Student_Work\obj\Debug\Student_Work.csproj.CoreCompileInputs.cache
+E:\Учеба\Student_Work\obj\Debug\Student_Work.exe
+E:\Учеба\Student_Work\obj\Debug\Student_Work.pdb
